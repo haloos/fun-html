@@ -1,3 +1,23 @@
 body {
-  background-color: blue;
+  background-color:red; 
+} 
+
+h1 {
+  color:greenyellow;
+} 
+
+ul {
+  color: papayawhip;
+} 
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+} 
+
+h1 {
+  font-size: 15px;
+} 
+
+a {
+  text-decoration: underline;
 }
