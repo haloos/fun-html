@@ -1,3 +1,3 @@
 # fun-html
 
-<h1>Some fun examples on how to build a website for students</h1>
+<h1><em>Some fun examples on how to build a website for students</em></h1>
